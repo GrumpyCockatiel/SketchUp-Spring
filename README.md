@@ -5,6 +5,7 @@ It's dependency is obviously on the Sketch 3D API. I don't even know if that is 
 
 It was to draw 3D string with a few parameters
 
+~~~~
  Usage :         Turns - Total number of rotations of the spring
                  Spring Height - Total height of the spring's skeletal wire
                    from tip to tip in the z-axis.  Does not include the wire
@@ -15,3 +16,4 @@ It was to draw 3D string with a few parameters
                    up each turn of the wire.
                  Circle Segs - Number of segments that make up the perimeter of
                    the wire.  Default is 24.
+~~~~
