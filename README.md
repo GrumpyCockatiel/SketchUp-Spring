@@ -1,9 +1,9 @@
 # SketchUp-Spring
-This is a simple SketchUp 3D Ruby Plugin I wrote ages ago to create springs
+This is a simple SketchUp 3D Ruby plugin I wrote ages ago to create springs.
 
-It's dependency is obviously on the Sketch 3D API. I don't even know if that is supported any more.
+It's dependency is obviously on the SketchUp 3D API. I don't even know if that is supported any more.
 
-It was to draw 3D string with a few parameters
+It was to draw 3D string with a few basic parameters:
 
 ~~~~
  Usage :         Turns - Total number of rotations of the spring
