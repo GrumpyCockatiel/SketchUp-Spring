@@ -1,5 +1,5 @@
 # SketchUp-Spring
-This is a simple Sketch 3D Ruby Plugin I wrote ages ago to create springs
+This is a simple SketchUp 3D Ruby Plugin I wrote ages ago to create springs
 
 It's dependency is obviously on the Sketch 3D API. I don't even know if that is supported any more.
 
